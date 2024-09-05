@@ -1,4 +1,7 @@
 # SimpleCalculator
-This is a Simple Calculator App for my practice (I will be making constant improvements on it).
+This is a basic calculator built with HTML, CSS, and JavaScript. 
+It performs basic arithmetic operations like addition, subtraction, multiplication, and division. (Improvements done periodically)
 
-I used HTML, CSS, and Javascript for the functionality
+Features:
+Users can input numbers and perform basic operations.
+Includes buttons for numbers, clear, and operations.
